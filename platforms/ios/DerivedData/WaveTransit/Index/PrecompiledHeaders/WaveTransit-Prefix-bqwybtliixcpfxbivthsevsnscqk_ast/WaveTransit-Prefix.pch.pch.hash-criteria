@@ -1,0 +1,30 @@
+Contents of /Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios/WaveTransit/WaveTransit-Prefix.pch
+-x
+objective-c
+-arch
+armv7s
+-fretain-comments-from-system-headers
+-std=c99
+-fobjc-arc
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+-g
+-fvisibility=hidden
+-miphoneos-version-min=5.0
+-iquote
+-iquote
+-I/Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios/DerivedData/WaveTransit/Build/Products/Debug-iphoneos/include
+-I/Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios/DerivedData/WaveTransit/Build/Products/Debug-iphoneos/usr/local/lib/include
+-I/Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios/DerivedData/WaveTransit/Build/Intermediates/UninstalledProducts/include
+-I/Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios/DerivedData/WaveTransit/Build/Products/Debug-iphoneos
+-F/Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios/DerivedData/WaveTransit/Build/Products/Debug-iphoneos
+-ferror-limit=10
+-working-directory=/Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios
+-Xclang
+-detailed-preprocessing-record
+arm-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.75)"
+SDK_PRODUCT_BUILD_VERSION=11A465
+11A465

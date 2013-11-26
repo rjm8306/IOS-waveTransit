@@ -1,0 +1,28 @@
+Contents of /Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+-x
+objective-c
+-arch
+armv7s
+-fretain-comments-from-system-headers
+-std=c99
+-fobjc-arc
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+-g
+-miphoneos-version-min=5.0
+-iquote
+-iquote
+-I/Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios/DerivedData/WaveTransit/Build/Products/Debug-iphoneos/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios/DerivedData/WaveTransit/Build/Products/Debug-iphoneos
+-ferror-limit=10
+-working-directory=/Users/robertmillar/Documents/DeveloperTools/IOS-waveTransit/platforms/ios/CordovaLib
+-Xclang
+-detailed-preprocessing-record
+-DDEBUG
+arm-apple-darwin13.0.0
+"4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.75)"
+SDK_PRODUCT_BUILD_VERSION=11A465
+11A465
